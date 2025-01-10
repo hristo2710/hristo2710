@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hristo2710
 - 👀 I’m interested in football, video games, movies, travel
-- 🌱 I’m currently working as a web developmer
+- 🌱 I’m currently working as a web developer
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me @hristo2710 on Instagram and Facebook
 
